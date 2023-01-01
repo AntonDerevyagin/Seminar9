@@ -1,0 +1,15 @@
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/bin/Debug/net7.0/Task66
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/bin/Debug/net7.0/Task66.deps.json
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/bin/Debug/net7.0/Task66.runtimeconfig.json
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/bin/Debug/net7.0/Task66.dll
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/bin/Debug/net7.0/Task66.pdb
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.csproj.AssemblyReference.cache
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.AssemblyInfoInputs.cache
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.AssemblyInfo.cs
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.csproj.CoreCompileInputs.cache
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.dll
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/refint/Task66.dll
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.pdb
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/Task66.genruntimeconfig.cache
+/Users/antonderevagin/Documents/Seminar9Dz/Task66/obj/Debug/net7.0/ref/Task66.dll
